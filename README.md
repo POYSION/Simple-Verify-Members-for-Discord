@@ -2,10 +2,9 @@
 
 EN
  
-//credits
-Attention:code 100% made by Teox open the workspace WORK in vs code.
+//Credits Code 100% made by Teox open the workspace WORK in vs code.
 
-//first steps
+//First steps
 Then open the terminal and type [npm i] to download the dependent packages.
 Put a token of your bot in config.json.
 
@@ -37,8 +36,7 @@ Discord:Teox#0157(462980817040310283)
 
 PT-BR
 
-//creditos
-Atençao:Codigo 100% feito por Teox#1507 abra o workspace Verificador no vs code.
+//creditos Codigo 100% feito por Teox#1507 abra o workspace Verificador no vs code.
 
 //primeiros passos
 Depois abra o terminal digite npm i espere baixar os pacotes dependentes.
