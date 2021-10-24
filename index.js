@@ -52,6 +52,7 @@ bot.on("ready", () => {
     console.log(`
     Logged:${bot.user.tag}(${bot.user.id})\n
     Created:${bot.user.createdAt}\n\n`);
+   
 })
 
 bot.login(config.token)
