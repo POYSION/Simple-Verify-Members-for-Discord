@@ -1,0 +1,15 @@
+{
+  "name": "verificador",
+  "version": "1.5.0",
+  "description": "Verificador de membros para seu servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teox#1507",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1"
+  }
+}
