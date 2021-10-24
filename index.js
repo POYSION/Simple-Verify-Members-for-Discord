@@ -49,9 +49,7 @@ bot.on("ready", () => {
     });
 
     console.log(`\nSystem online.`);
-    console.log(`
-    Logged:${bot.user.tag}(${bot.user.id})\n
-    Created:${bot.user.createdAt}\n\n`);
+    console.log(`Logged:${bot.user.tag}(${bot.user.id})\nCreated:${bot.user.createdAt}\n\n`);
    
 })
 
