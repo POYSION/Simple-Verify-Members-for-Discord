@@ -60,7 +60,7 @@ obs () => {
 
 Inicie o arquivo start e aguarde os logs apos o log sera mandado a mensagem no canal e o sistema estara ativo
 
-Caso precise de ajuda ou tenha alguma duvida sendo ela referente a o codigo ou nao chame no meu Privado.
+Caso precise de ajuda ou tenha alguma duvida sendo ela referente a o codigo ou nao, chame no meu Privado.
 
 Discord:Teox#0157(462980817040310283)
 
