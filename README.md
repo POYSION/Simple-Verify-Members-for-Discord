@@ -28,7 +28,7 @@ Start the start file and wait for the logs after the log will be sent the messag
 
 If you need help or have any questions about the code or anything else, send me a message.
 
-Discord:Teox#0157(462980817040310283)
+Discord:Teox#0001(462980817040310283)
 
 }
 
@@ -62,6 +62,6 @@ Inicie o arquivo start e aguarde os logs apos o log sera mandado a mensagem no c
 
 Caso precise de ajuda ou tenha alguma duvida sendo ela referente a o codigo ou nao, chame no meu Privado.
 
-Discord:Teox#0157(462980817040310283)
+Discord:Teox#0001(462980817040310283)
 
 }
