@@ -1,6 +1,6 @@
 # Discord Bot by Teox
 
-##EN
+## EN
  
 //Credits Code 100% made by Teox open the workspace WORK in vs code.
 
@@ -34,7 +34,7 @@ Discord:Teox#0001(462980817040310283)
 
 
 
-##PT-BR
+## PT-BR
 
 //creditos Codigo 100% feito por Teox#1507 abra o workspace Verificador no vs code.
 
